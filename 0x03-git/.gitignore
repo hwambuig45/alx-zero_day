@@ -1,0 +1,2 @@
+git config --global excludesfile ~/.gitignore_global
+*~
